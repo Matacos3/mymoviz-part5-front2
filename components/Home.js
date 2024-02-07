@@ -33,6 +33,8 @@ function Home() {
     </div>
   );
 
+
+  
   // Movies list
 
   const [moviesData, setMoviesData] = useState([])
